@@ -1,0 +1,48 @@
+/*StairWorx Colors: #002a54,#8a2529,#333333,#f0f0f0,#a8a8a8,#104759*/
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Oswald, sans-serif;
+}
+
+.header-container {
+    background-color: #333333;
+}
+
+.logo-container {
+
+}
+
+.logo-image {
+    height: 87px;
+    width: 400px;
+}
+
+.logo-text {
+    color: #f0f0f0;
+    font-size: 18px;
+    font-weight: 600px;
+    font-style: italic;
+}
+
+.navbar {
+    background-color: #104759;
+    color: #f0f0f0;
+    font-size: 20px;
+    gap: 10px;
+}
+
+.banner-container {
+
+}
+
+.main-container {
+
+}
+
+.footer-container {
+    background-color: #333333;
+}
